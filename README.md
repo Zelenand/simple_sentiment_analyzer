@@ -8,7 +8,7 @@
 ## Сборка и установка
 
 ```bash
-git clone <URL_ВАШЕГО_GIT_РЕПОЗИТОРИЯ>
+git clone https://github.com/Zelenand/simple_sentiment_analyzer.git
 python -m venv .venv
 .venv\Scripts\Activate.bat
 pip install -e .
